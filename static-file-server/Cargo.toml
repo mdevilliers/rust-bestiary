@@ -1,0 +1,9 @@
+[package]
+name = "static-file-server"
+version = "0.1.0"
+authors = ["Mark deVilliers <markdevilliers@gmail.com>"]
+
+[dependencies]
+iron="*"
+mount="*"
+staticfile = "*"
